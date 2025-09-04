@@ -5,4 +5,4 @@ title: Welcome
 
 Hello, this is my homepage 🚀  
 
-<a href="{{ post.url }}">{{ post.title }}</a>
+[My Post](/post/20250904)
