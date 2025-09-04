@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: "Welcome"
 ---
 
 Hello, this is my homepage 🚀  
