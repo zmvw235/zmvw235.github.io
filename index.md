@@ -5,4 +5,4 @@ title: Welcome
 
 Hello, this is my homepage 🚀  
 
-This text comes from `index.md`.
+[My Post](/post/20250904)
