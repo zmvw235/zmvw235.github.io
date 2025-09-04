@@ -4,4 +4,3 @@ theme: minima
 markdown: kramdown
 kramdown:
   hard_wrap: true
-permalink: /post/:title
