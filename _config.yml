@@ -1,0 +1,6 @@
+title: zmvw235
+description: "daily record"
+theme: minima
+markdown: kramdown
+kramdown:
+  hard_wrap: true
